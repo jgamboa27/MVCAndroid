@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LoginFormDemo</string>
+
+    <string name="validate_user_title">Validar Usuario</string>
+
+    <string name="username_hint">usuario</string>
+
+    <string name="password_hint">password</string>
+
+    <string name="button_name">Validar</string>
+
+    <string name="switch_title">Es Estudiante?</string>
+
+    <string name="correct_user_message">Usuario Correcto</string>
+
+    <string name="incorrect_user_message">Usuario Incorrecto</string>
+</resources>
